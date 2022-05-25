@@ -1,1 +1,1 @@
-# replit-php-test-1
+# replit-php-template-1
